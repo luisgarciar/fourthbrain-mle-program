@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7868464e-30b9-41bc-9aaa-f38645c68016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/new-product-launch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/new-product-launch.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7868464e-30b9-41bc-9aaa-f38645c68016" name="Changes" comment="Update assignment week o" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +49,34 @@
       <workItem from="1660691537323" duration="85000" />
       <workItem from="1660691708016" duration="10292000" />
       <workItem from="1661096203126" duration="148000" />
-      <workItem from="1661097609073" duration="19954000" />
+      <workItem from="1661097609073" duration="19974000" />
     </task>
+    <task id="LOCAL-00001" summary="Update assignment week o">
+      <created>1661120034707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661120034707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update assignment week o" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update assignment week o" />
   </component>
 </project>
