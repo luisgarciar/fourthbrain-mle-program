@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7868464e-30b9-41bc-9aaa-f38645c68016" name="Changes" comment="Update assignment week o" />
+    <list default="true" id="7868464e-30b9-41bc-9aaa-f38645c68016" name="Changes" comment="Update assignment week o">
+      <change beforePath="$PROJECT_DIR$/../../week-9-computer-vision/nb/demo-interactive-fsl-rubberduck.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-9-computer-vision/nb/demo-interactive-fsl-rubberduck.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
       <workItem from="1660691708016" duration="10292000" />
       <workItem from="1661096203126" duration="148000" />
       <workItem from="1661097609073" duration="19974000" />
+      <workItem from="1661341726689" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="Update assignment week o">
       <created>1661120034707</created>
